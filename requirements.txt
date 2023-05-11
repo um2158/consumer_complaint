@@ -7,4 +7,5 @@ pandas==1.3.5
 pymongo[srv]
 python-dotenv
 apache-airflow
+boto3==1.24.82
 -e .
