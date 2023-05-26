@@ -27,5 +27,6 @@ finance_complaint/entity/config_entity.py
 finance_complaint/entity/metadata_entity.py
 finance_complaint/entity/schema.py
 finance_complaint/ml/__init__.py
+finance_complaint/ml/feature.py
 finance_complaint/pipeline/__init__.py
 finance_complaint/pipeline/training.py
