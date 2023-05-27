@@ -21,12 +21,15 @@ finance_complaint/config/__init__.py
 finance_complaint/config/mongo_client.py
 finance_complaint/config/spark_manager.py
 finance_complaint/data_access/__init__.py
+finance_complaint/data_access/model_eval_artifact.py
 finance_complaint/entity/__init__.py
 finance_complaint/entity/artifact_entity.py
 finance_complaint/entity/config_entity.py
 finance_complaint/entity/metadata_entity.py
 finance_complaint/entity/schema.py
 finance_complaint/ml/__init__.py
+finance_complaint/ml/estimator.py
 finance_complaint/ml/feature.py
 finance_complaint/pipeline/__init__.py
+finance_complaint/pipeline/batch_prediction.py
 finance_complaint/pipeline/training.py
